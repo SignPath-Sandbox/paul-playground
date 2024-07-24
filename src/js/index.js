@@ -4,7 +4,7 @@
 let base64 = require('base-64');
 
 let url = 'http://example.org/auth';
-let username = 'user';
+let username = 'username';
 let password = 'password';
 
 let headers = new Headers();
