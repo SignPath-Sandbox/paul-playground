@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 from django.db import connection
 
 def show_user(request, username):
