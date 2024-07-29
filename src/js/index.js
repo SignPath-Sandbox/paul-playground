@@ -1,5 +1,6 @@
 /**
  * Should trigger a code scanning warning due to hard-coded secrets.
+ * See https://codeql.github.com/codeql-query-help/javascript/js-hardcoded-credentials/
  */
 let base64 = require('base-64');
 
